@@ -4,4 +4,7 @@ torch
 transformers 
 transformers[torch]
 datasets
+evaluate
+scipy
+scikit-learn
 
